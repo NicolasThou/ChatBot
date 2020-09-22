@@ -1,0 +1,19 @@
+﻿Cockpit,Light VFR,Light IFR,Medium and Heavy
+IDU,1,2,3
+Primary Flight Display & Navigation (PFD/ND),1,1,1
+Digital Map,1,1,1
+Basic System Pages,1,1,1
+Basic Flight Management System (FMS),1,1,1
+Flight Warning System (FWS),1,1,1
+Centralised Maintenance System (CMS),1,1,1
+Cursor Control Device (CCD),0,1,1
+Standby Instrument (STDBY),1,1,1
+Tablet Universal Adaptor,1,1,1
+Air Data Unit & probes (ADU),1,1,1
+Global Navigation System (GNSS),1,1,1
+Traffic Collision Avoidance System (TCAS),0,0,1
+Mode S Transponder (XPDR),1,1,1
+Audio System,1,1,1
+Very high Frequency Radio Terminal (VHF),1,1,1
+VHF Omnidirect. Range & Instrument Landing System (VOR/ILS),1,1,1
+Emergency Locator Transmitter (ELT),1,1,1

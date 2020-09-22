@@ -1,0 +1,41 @@
+﻿Cockpit,Light VFR,Light IFR,Medium and Heavy
+IDU,1,2,3
+Primary Flight Display & Navigation (PFD/ND),1,1,1
+Synthetic Vision System (SVS),0,1,1
+Digital Map,1,1,1
+Enhanced System Pages (EWD),0,0,1
+Basic System Pages,1,1,1
+High End Flight Management System (FMS),0,0,1
+Basic Flight Management System (FMS),1,1,1
+Flight Warning System (FWS),1,1,1
+Centralised Maintenance System (CMS),1,1,1
+Cursor Control Device (CCD),0,1,1
+Standby Instrument (STDBY),1,1,1
+Flight & Voice data recorder (VDR),0,0,0
+Tablet Universal Adaptor,1,1,1
+Secure Server,0,1,1
+Satellite Communication,0,0,0
+Air Data Unit & probes (ADU),1,1,1
+Global Navigation System (GNSS),1,1,1
+Radio Altimeter & antennas (RA),0,1,1
+Terrain Awareness Warning System (TAWS or HTAWS),0,1,1
+Traffic Collision Avoidance System (TCAS),0,0,1
+Traffic Advisory System (TAS),0,1,0
+Mode S Transponder (XPDR),1,1,1
+Weather Radar (WXR),0,0,0
+Audio System,1,1,1
+Very high Frequency Radio Terminal (VHF),1,1,1
+VHF Omnidirect. Range & Instrument Landing System (VOR/ILS),1,1,1
+Automatic Direction Finder (ADF),0,0,0
+Distance Measuring Equipment (DME),0,0,1
+Emergency Locator Transmitter (ELT),1,1,1
+High Frequency Terminal (HF),0,0,0
+3-Axis Autopilot System,0,0,0
+4-Axis Autopilot System,0,0,0
+Localizer Performance with Vertical Guidance (LPV),0,0,0
+Search & Rescue System (SAR),0,0,0
+Helicopter Emergency Medical Service (HEMS),0,0,0
+FLIR (camra / law enforcement),0,0,0
+VIP incl SATCOM,0,0,0
+Tablet for electronic Flight Bag (Thales Pad),0,0,0
+Enhanced Vision System (EVS),0,0,0
